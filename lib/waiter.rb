@@ -19,4 +19,3 @@ class Waiter
 
 
 end
-end
