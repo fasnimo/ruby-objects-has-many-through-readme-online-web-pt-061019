@@ -23,7 +23,6 @@ class Waiter
     end
   end
 
-
   def
 
   end
