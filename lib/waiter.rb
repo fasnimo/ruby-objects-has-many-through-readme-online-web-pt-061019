@@ -22,6 +22,8 @@ class Waiter
       meals.waiter == self
   end
 
+  def 
+
   end
 
 
