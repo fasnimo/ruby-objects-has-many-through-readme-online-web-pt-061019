@@ -20,9 +20,11 @@ class Waiter
   def meals
     Meal.all.select do |meals|
       meals.waiter == self
+    end
   end
 
-  def 
+
+  def
 
   end
 
